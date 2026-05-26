@@ -35,8 +35,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HaruHunab1320/parallax.git",
-    "directory": "packages/adapter-types"
+    "url": "https://github.com/HaruHunab1320/adapter-types.git"
   },
   "devDependencies": {
     "@types/node": "^22.14.1",
